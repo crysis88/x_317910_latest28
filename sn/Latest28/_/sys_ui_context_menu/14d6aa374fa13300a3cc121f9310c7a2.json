@@ -1,0 +1,38 @@
+{
+  "action_script": {
+    "____see": "sn/Latest28/Context Menu/global/active_true/Test/action_script.js"
+  },
+  "active": true,
+  "comments": "",
+  "condition": "",
+  "do_not_cache": false,
+  "dynamic_actions_script": {
+    "____see": "sn/Latest28/Context Menu/global/active_true/Test/dynamic_actions_script.js"
+  },
+  "menu": "list_header",
+  "name": "Test",
+  "on_show_script": {
+    "____see": "sn/Latest28/Context Menu/global/active_true/Test/on_show_script.js"
+  },
+  "order": 1000,
+  "parent": "",
+  "run_on_show_script": false,
+  "sys_class_name": "sys_ui_context_menu",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-28 08:07:40",
+  "sys_domain": "global",
+  "sys_domain_path": "/",
+  "sys_id": "14d6aa374fa13300a3cc121f9310c7a2",
+  "sys_mod_count": 0,
+  "sys_name": "Test",
+  "sys_overrides": "",
+  "sys_package": "03852e7f4f613300a3cc121f9310c728",
+  "sys_policy": "",
+  "sys_scope": "03852e7f4f613300a3cc121f9310c728",
+  "sys_update_name": "sys_ui_context_menu_14d6aa374fa13300a3cc121f9310c7a2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-28 08:07:40",
+  "table": "global",
+  "track_selected": false,
+  "type": "action"
+}
